@@ -6,7 +6,7 @@ This project is a fictional tech conference website built using SvelteKit. It sh
 
 1. Clone the repository:
    ```
-   git clone https://github.com/umendra-pardhi/tech-conf.git.git
+   git clone https://github.com/umendra-pardhi/tech-conf.git
    cd tech-conf
    ```
 
